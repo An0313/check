@@ -4,9 +4,13 @@
   "description": "常用校验",
   "main": "index.js",
   "author": "An0313",
+  "repository": "https://github.com/An0313/check",
   "license": "ISC",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@ahg0313/regexp": "^0.0.1"
   }
 }
