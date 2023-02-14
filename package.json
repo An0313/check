@@ -1,0 +1,12 @@
+{
+  "name": "@ahg0313/check",
+  "version": "1.0.1",
+  "description": "常用校验",
+  "main": "index.js",
+  "author": "An0313",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
